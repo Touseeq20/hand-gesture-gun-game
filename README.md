@@ -68,5 +68,5 @@ python gesture_control_game.py
 
 ## 👤 Author
 
-**Touseeq Ahmed**
+**Muhammad Touseeq AI/ML Engineer**
 - GitHub: [@Touseeq20](https://github.com/Touseeq20)
